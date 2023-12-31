@@ -1,6 +1,7 @@
 .container {
     padding: 0 0 1em 0;
     margin-top: .5em;
+    margin: 10px;
     width: 282px;
     background-color: var(--cinza);
     display: flex;
@@ -9,7 +10,8 @@
 }
 
 .capa {
-    width: 100%;
+    width:208px;
+    height: 267px;
 }
 
 .container h2,
